@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="17983" appversion="6.1.9">
+  <panorama id="node1" hideabout="1">
+    <input height="1344" leveltilesize="510" levelingpitch="1.7" levelbias="0.400" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingroll="0.9" width="1344">
+      <level height="1344" preload="0" predecode="0" width="1344"/>
+      <level height="672" preload="0" predecode="0" width="672"/>
+      <level height="336" preload="1" predecode="1" width="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" projection="4" fov="70" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" pan="360"/>
+    </view>
+    <userdata comment="" nodeid="node1" latitude="" author="" heading="0" info="" source="" customnodeid="" copyright="" datetime="01/01/2016 12:00 am" tags="الشقة الثالثة" longitude="" title="" description=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" enabled="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" border="1" backgroundalpha="1" background="1" borderalpha="1" width="180"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="Point01" url="{node2}" target="" tilt="-15.1" skinid="ht_node" title="" description="" pan="-137.03"/>
+      <hotspot id="Point02" url="{node7}" target="" tilt="-13.46" skinid="ht_node" title="" description="" pan="-277.96"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomfov="20" zoomout="0" type="crossdissolve"/>
+    <autorotate returntohorizon="0.000" enabled="1" startloaded="1" nodedelay="0.00" delay="5.00" noderandom="1" nodefilter="" speed="0.100" useanimation="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" invertwheel="0" rubberband="0" invertcontrol="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" speedwheel="1" contextfullscreen="1" contextprojections="0" hideabout="1" lockedkeyboardzoom="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input height="1344" leveltilesize="510" levelingpitch="2" levelbias="0.400" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingroll="0.7" width="1344">
+      <level height="1344" preload="0" predecode="0" width="1344"/>
+      <level height="672" preload="0" predecode="0" width="672"/>
+      <level height="336" preload="1" predecode="1" width="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-8.53515" projection="4" fov="70" pan="-172.078"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" pan="360"/>
+    </view>
+    <userdata comment="" nodeid="node2" latitude="15.59153076" author="" heading="0" info="" source="" customnodeid="" copyright="" datetime="01/01/2016 12:02 am" tags="الشقة الثالثة" longitude="32.57774055" title="" description=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" enabled="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" border="1" backgroundalpha="1" background="1" borderalpha="1" width="180"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="Point01" url="{node3}" target="" tilt="-9.4" skinid="ht_node" title="" description="" pan="-97.88"/>
+      <hotspot id="Point02" url="{node1}" target="" tilt="-16.44" skinid="ht_node" title="" description="" pan="-178.14"/>
+      <hotspot id="Point03" url="{node5}" target="" tilt="-17.02" skinid="ht_node" title="" description="" pan="-120.35"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomfov="20" zoomout="0" type="crossdissolve"/>
+    <autorotate returntohorizon="0.000" enabled="1" startloaded="1" nodedelay="0.00" delay="5.00" noderandom="1" nodefilter="" speed="0.100" useanimation="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" invertwheel="0" rubberband="0" invertcontrol="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" speedwheel="1" contextfullscreen="1" contextprojections="0" hideabout="1" lockedkeyboardzoom="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input height="1344" leveltilesize="510" levelingpitch="1.3" levelbias="0.400" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingroll="0.8" width="1344">
+      <level height="1344" preload="0" predecode="0" width="1344"/>
+      <level height="672" preload="0" predecode="0" width="672"/>
+      <level height="336" preload="1" predecode="1" width="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-7.9449" projection="4" fov="70" pan="-97.6911"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" pan="360"/>
+    </view>
+    <userdata comment="" nodeid="node3" latitude="" author="" heading="0" info="" source="" customnodeid="" copyright="" datetime="01/01/2016 12:07 am" tags="الشقة الثالثة" longitude="" title="" description=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" enabled="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" border="1" backgroundalpha="1" background="1" borderalpha="1" width="180"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="Point01" url="{node2}" target="" tilt="-19.81" skinid="ht_node" title="" description="" pan="-228.72"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomfov="20" zoomout="0" type="crossdissolve"/>
+    <autorotate returntohorizon="0.000" enabled="1" startloaded="1" nodedelay="0.00" delay="5.00" noderandom="1" nodefilter="" speed="0.100" useanimation="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" invertwheel="0" rubberband="0" invertcontrol="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" speedwheel="1" contextfullscreen="1" contextprojections="0" hideabout="1" lockedkeyboardzoom="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input height="1344" leveltilesize="510" levelingpitch="1.6" levelbias="0.400" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingroll="0.8" width="1344">
+      <level height="1344" preload="0" predecode="0" width="1344"/>
+      <level height="672" preload="0" predecode="0" width="672"/>
+      <level height="336" preload="1" predecode="1" width="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" projection="4" fov="70" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" pan="360"/>
+    </view>
+    <userdata comment="" nodeid="node5" latitude="" author="" heading="0" info="" source="" customnodeid="" copyright="" datetime="01/01/2016 12:13 am" tags="الشقة الثالثة" longitude="" title="" description=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" enabled="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" border="1" backgroundalpha="1" background="1" borderalpha="1" width="180"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="Point01" url="{node2}" target="" tilt="-12.25" skinid="ht_node" title="" description="" pan="-30.76"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomfov="20" zoomout="0" type="crossdissolve"/>
+    <autorotate returntohorizon="0.000" enabled="1" startloaded="1" nodedelay="0.00" delay="5.00" noderandom="1" nodefilter="" speed="0.100" useanimation="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" invertwheel="0" rubberband="0" invertcontrol="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" speedwheel="1" contextfullscreen="1" contextprojections="0" hideabout="1" lockedkeyboardzoom="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input height="1344" leveltilesize="510" levelingpitch="1.6" levelbias="0.400" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingroll="1.1" width="1344">
+      <level height="1344" preload="0" predecode="0" width="1344"/>
+      <level height="672" preload="0" predecode="0" width="672"/>
+      <level height="336" preload="1" predecode="1" width="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-3.38754" projection="4" fov="70" pan="-171.736"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120" pan="360"/>
+    </view>
+    <userdata comment="" nodeid="node7" latitude="" author="" heading="0" info="" source="" customnodeid="" copyright="" datetime="01/01/2016 12:35 am" tags="الشقة الثالثة" longitude="" title="" description=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" enabled="1" borderradius="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" border="1" backgroundalpha="1" background="1" borderalpha="1" width="180"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="Point01" url="{node1}" target="" tilt="5.41" skinid="ht_node" title="" description="" pan="-170.05"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomfov="20" zoomout="0" type="crossdissolve"/>
+    <autorotate returntohorizon="0.000" enabled="1" startloaded="1" nodedelay="0.00" delay="5.00" noderandom="1" nodefilter="" speed="0.100" useanimation="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" invertwheel="0" rubberband="0" invertcontrol="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" speedwheel="1" contextfullscreen="1" contextprojections="0" hideabout="1" lockedkeyboardzoom="0" dblclickfullscreen="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" nodeid="master" latitude="" author="" heading="0" info="" source="" customnodeid="" copyright="" datetime="" tags="" longitude="" title="" description=""/>
+  </masternode>
+</tour>
